@@ -12,6 +12,7 @@
     "@clerk/nextjs": "^6.35.1",
     "@prisma/client": "^6.19.0",
     "axios": "^1.13.2",
+    "groq-sdk": "^0.36.0",
     "mongoose": "^8.19.4",
     "next": "16.0.1",
     "openai": "^6.9.0",
